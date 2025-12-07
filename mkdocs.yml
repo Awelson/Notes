@@ -1,6 +1,6 @@
-site_name: Awelson's Blog
-site_description: Just a blog
-site_url: http://127.0.0.1:8000/
+site_name: Awelson's Notes
+site_description: A place to store my notes
+site_url: https://awelson.github.io/Notes/
 
 theme:
   name: material
@@ -35,7 +35,6 @@ plugins:
       blog_dir: Notes
       archive_date_format: MMMM yyyy
       archive_url_date_format: yyyy/MM
-
 
 markdown_extensions:
   - abbr
