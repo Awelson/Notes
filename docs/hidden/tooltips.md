@@ -1,6 +1,8 @@
 ---
 hide:
-  - navigation # Ensures the standard nav logic is hidden
+  - navigation
+search:
+  exclude: true
 ---
 
 <!-- [← **Back**](../Notes/posts/bettertooltips.md){ .md-content__button } -->
