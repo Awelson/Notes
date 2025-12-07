@@ -1,6 +1,7 @@
 site_name: Awelson's Notes
 site_description: A place to store my notes
 site_url: https://awelson.github.io/Notes/
+repo_url: https://github.com/Awelson/Notes/
 
 theme:
   name: material
