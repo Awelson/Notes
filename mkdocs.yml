@@ -1,0 +1,68 @@
+site_name: Awelson's Blog
+site_description: Just a blog
+site_url: http://127.0.0.1:8000/
+
+theme:
+  name: material
+  palette:
+  # dark mode
+  - scheme: default
+    primary: pink
+    accent: indigo
+    toggle: 
+      icon: material/toggle-switch-off-outline
+      name: Switch to dark mode
+  # light mode
+  - scheme: slate
+    primary: pink
+    accent: blue
+    toggle:
+      icon: material/toggle-switch
+      name: Switch to light mode
+  features: 
+    - content.tooltips
+    - navigation.path
+    - navigation.prune
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.tracking
+
+plugins:
+  - search
+  - awesome-nav
+  - blog:
+      blog_dir: Notes
+      archive_date_format: MMMM yyyy
+      archive_url_date_format: yyyy/MM
+
+
+markdown_extensions:
+  - abbr
+  - footnotes
+  - tables 
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.blocks.caption
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+
+extra_javascript:
+  - javascripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+
+extra_css:
+  - stylesheets/extra.css
+  - https://unpkg.com/katex@0/dist/katex.min.css

@@ -1,0 +1,23 @@
+p {
+  text-align: justify;
+}
+
+iframe {
+  display: block; /* An iframe is inline by default, block is needed for margin: auto */
+  width: 640px;   /* Must have a set width */
+  height: 360px;
+  margin-left: auto;
+  margin-right: auto;
+  border: none;
+}
+
+.columns {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.col {
+  flex: 1;
+  min-width: 300px; 
+}
