@@ -1,6 +1,8 @@
 ---
 title: "Anki decks for learning Japanese"
-date: 2025-12-07
+date: 
+    created: 2025-12-07
+    updated: 2025-12-09
 hide:
     - toc
 ---
@@ -21,7 +23,11 @@ also known as the *Ankidrone Essentials*. This consists of 5 subdecks based on J
 
 ### Japanese Core
 
-This deck is based on the 6,000 most common Japanese words as per [iknow.jp](https://iknow.jp/content/japanese). The [Core 2k](https://ankiweb.net/shared/info/2141233552) deck contains just the first 2,000 words while the [Core 2k/6k](https://ankiweb.net/shared/by-author/1880390099) deck contains all 6,000. There is also a [Core 10k](https://ankiweb.net/shared/info/120401384) deck which contains an extra 4,000 words (I am not sure where from).
+This deck is based on the 6,000 most common Japanese words as per [iknow.jp](https://iknow.jp/content/japanese). The [Core 2k](https://ankiweb.net/shared/info/2141233552) deck contains just the first 2,000 words while the [Core 2k/6k](https://ankiweb.net/shared/by-author/1880390099) deck contains all 6,000. There is also a [Core 10k](https://ankiweb.net/shared/info/120401384) deck which contains an extra 4,000 words (I am not sure where from). You can browse the contents of these decks online at [https://core6000.neocities.org](https://core6000.neocities.org). 
+
+!!! warning 
+
+    As of right now (December 2025), the core6000 website is unreachable, but you can still access a historic copy of it through the [internet archive](https://archive.org/). 
 
 ### Variants
 
@@ -37,15 +43,16 @@ The [Dictionary of Japanese Grammar (DoJG)](https://www.tofugu.com/reviews/dicti
 
 ## Making Your Own Deck
 
-After learning some few thousand words, a lot of people suggest moving on to building your own Anki decks. Personally, I can't be bothered but I looked into it anyway. The idea is : whenever you encounter a word you don't know and would like to learn (say while watching an anime), you can extract that word and the surrounding context and turn it into a flashcard; this is known as [*sentence mining*](https://tatsumoto-ren.github.io/blog/sentence-mining.html) which falls under the more general hood of *immersion-based learning*.
+After learning some few thousand words, a lot of people suggest moving on to building your own Anki decks. The idea is : whenever you encounter a word you don't know and would like to learn (say while watching an anime), you can extract that word and the surrounding context and turn it into a flashcard; this is known as [*sentence mining*](https://tatsumoto-ren.github.io/blog/sentence-mining.html) which falls under the more general hood of *immersion-based learning*. 
 
-There are **VERY** detailed setups / guides on how to do this and I will list some of the ones I came across in no particular order :
+There are **VERY** detailed setups / guides on how to do this, some of them also include software and workflows to help automate flashcard creation. Personally, I can't be bothered, but it is fascinating to see some of the effort and research people put into this stuff. I'd like to showcase some of these guides below :
 
-- [Animecards](https://animecards.site/ankisetup/)
+- [animecards](https://animecards.site/ankisetup/)
 - [donkuri](https://donkuri.github.io/learn-japanese/guide/)
 - [lazyguide](https://lazyguidejp.github.io/jp-lazy-guide/)
 - [jp-mining-note](https://arbyste.github.io/jp-mining-note/)
 - [itazuraneko](https://gohoneko.neocities.org/learn/anki)
+- [tatsumoto-ren](https://tatsumoto-ren.github.io/blog/setting-up-anki.html)
 
 There are also YT videos on this topic :
 
