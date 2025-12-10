@@ -1,6 +1,6 @@
 ---
 title: "Resources and Guides for Learning Japanese"
-date: 2025-12-09
+date: 2025-12-10
 ---
 
 There are sooo many websites dedicated to helping people get started with learning Japanese. The level of effort and detail that has been put into some of these are insane. I've made a list of some of my favorites here :
