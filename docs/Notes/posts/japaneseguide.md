@@ -43,9 +43,9 @@ Beyond that, the website also hosts pages on more general topics in otaku cultur
 
 This website lists commonly misused Japanese words and phrases and explains how to avoid those mistakes.
 
-### [Sakubi](https://sakubi.neocities.org/), [Imabi](https://imabi.org/), and [Yokubi](https://yoku.bi/)
+### [Sakubi](https://sakubi.neocities.org/), [Imabi](https://imabi.org/), [Yokubi](https://yoku.bi/)
 
-All three of these are Japanese grammar references. Although Imabi is a very well written and extensive, many people regard it as being too terse and academic. As a response, Sakubi was created. After a while, some people decided to restructure and rewrite Sakubi, and the result of this came to be known as Yokubi. Other noteworthy grammar references include [Tofugu](https://www.tofugu.com/) and [Bunpro](https://bunpro.jp/).
+All three of these are excellent Japanese grammar references. Although [Imabi](https://imabi.org/) is very well written and extensive, many people regard it as being too terse and academic. As a response, [Sakubi](https://sakubi.neocities.org/) was created as a more accessible alternative. Later on, some people decided to revise and restructure [Sakubi](https://sakubi.neocities.org/), resulting in what is now known as [Yokubi](https://yoku.bi/). Other noteworthy grammar references include [Tofugu](https://www.tofugu.com/) and [Bunpro](https://bunpro.jp/).
 
 !!! warning
 
