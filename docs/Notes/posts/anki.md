@@ -2,9 +2,7 @@
 title: "Anki decks for learning Japanese"
 date: 
     created: 2025-12-07
-    updated: 2025-12-09
-hide:
-    - toc
+    updated: 2025-12-10
 ---
 
 For those who don't know, [Anki](https://apps.ankiweb.net/) is a flashcard program which uses [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) to help you learn and memorize stuff. It is especially popular with the Japanese language learning community for memorizing vocabulary and grammar. I have been wanting to study Japanese more seriously so I had to do some digging to figure out which of the many decks (set of flashcards) I should use, and I wanted to share some of what I found in this note.
@@ -29,9 +27,9 @@ This deck is based on the 6,000 most common Japanese words as per [iknow.jp](htt
 
     As of right now (December 2025), the core6000 website is unreachable, but you can still access a historic copy of it through the [internet archive](https://archive.org/). 
 
-### Variants
+### Other Decks
 
-There are many variants to the Tango and Core decks. For example, [Core 2.3k](https://anacreondjt.gitlab.io/docs/coredeck/) and [Kaishi 1.5k](https://github.com/donkuri/kaishi) are (successfull) attempts at refining the original Tango and Core decks. 
+You can find other decks [here](https://djtguide.github.io/library/benkyou.html). Some notable alternatives include the [Core 2.3k](https://anacreondjt.gitlab.io/docs/coredeck/) and [Kaishi 1.5k](https://github.com/donkuri/kaishi) which are (successfull) attempts at refining the original Tango and Core decks. 
 
 ---
 
@@ -51,7 +49,7 @@ There are **VERY** detailed setups / guides on how to do this, some of them also
 - [donkuri](https://donkuri.github.io/learn-japanese/guide/)
 - [lazyguide](https://lazyguidejp.github.io/jp-lazy-guide/)
 - [jp-mining-note](https://arbyste.github.io/jp-mining-note/)
-- [itazuraneko](https://gohoneko.neocities.org/learn/anki)
+- [itazuraneko](https://djtguide.github.io/learn/anki.html)
 - [tatsumoto-ren](https://tatsumoto-ren.github.io/blog/setting-up-anki.html)
 
 There are also YT videos on this topic :
@@ -60,3 +58,8 @@ There are also YT videos on this topic :
 - [Jouzu Juls](https://www.youtube.com/watch?v=PAUYnp5wOE0)
 - [Livakivi](https://www.youtube.com/watch?v=QBcQJESGQvc)
   
+---
+
+### Related Notes
+
+- [Resources and Guides for learning Japanese](japaneseguide.md)
