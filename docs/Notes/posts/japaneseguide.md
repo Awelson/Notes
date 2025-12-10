@@ -12,7 +12,7 @@ There are sooo many websites dedicated to helping people get started with learni
 also known as the Daily Japanese Thread (DJT) guide. This is probably the most extensive resource / guide out there. Some of the highlights include :
 
 - a [library section](https://djtguide.github.io/library/librarymain.html) where you can find manga, textbooks, light novels, etc...
-- a [list of explanations](https://djtguide.github.io/horon/kotoba/chigai.html) (all in Japanese) for differences in nuance between words/phrases with similar meanings.
+- a [list of explanations](https://djtguide.github.io/horon/kotoba/chigai.html) for differences in nuance between words/phrases with similar meanings.
 - a [master list](https://djtguide.github.io/grammar/masterreference.html) of Japanese grammar compiled from 5 different sources.
 
 and so much more, check it out yourself. Below are some mirrors for this website in case the main link no longer works :
@@ -28,6 +28,10 @@ A guide for learning Japanese based on the [All Japanese All The Time](https://t
 ### [TheMoeWay](https://learnjapanese.moe/)
 
 A guide for learning Japanese with a focus on using anime, manga, VNs, etc.. Their [list of resources](https://learnjapanese.moe/resources/) is also very extensive and useful.
+
+### [Wotaku](https://wotaku.wiki/japan/language)
+
+Mainly a resource aggregator for otakus, but also has a great section for Japanese language learning.
 
 ### [Japanese with Anime](https://www.japanesewithanime.com/)
 
