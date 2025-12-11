@@ -51,6 +51,10 @@ All three of these are excellent Japanese grammar references. Although [Imabi](h
 
     As of December 2025, Yokubi is still in development and not fully complete. 
 
+### [Cure Dolly](https://www.youtube.com/@organicjapanesewithcuredol49)
+
+was a VTuber who came up with quite a novel model to explain Japanese sentence structure. She has a [playlist](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) with 93 lessons teaching Japanese from scratch with this model. If you are not a video type of person, you can also refer to [the notes](https://kellenok.github.io/cure-script/) that have been made based on her videos. Unfortunately, Cure Dolly passed away back in 2021 despite there being so much more to teach.
+
 ### [Konomu](https://konomu.github.io/wa-ga-basics)
 
 How does one choose between は and が? This is a notoriously difficult question to answer, so much so that [entire books](https://www.amazon.co.jp/%E3%80%8C%E3%81%AF%E3%80%8D%E3%81%A8%E3%80%8C%E3%81%8C%E3%80%8D-%E6%96%B0%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%96%87%E6%B3%95%E9%81%B8%E6%9B%B8-1-%E9%87%8E%E7%94%B0-%E5%B0%9A%E5%8F%B2/dp/487424128X) have been written on this topic. This website is a **very** long guide which goes over all the nuances in dealing with this question.
