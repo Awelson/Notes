@@ -5,6 +5,7 @@ repo_url: https://github.com/Awelson/Notes/
 
 theme:
   name: material
+  custom_dir: overrides
   palette:
   # dark mode
   - scheme: default
