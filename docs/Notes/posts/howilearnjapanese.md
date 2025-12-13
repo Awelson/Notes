@@ -44,7 +44,7 @@ Besides nijisanji, I also watch :
 - [atatakakunaru](https://www.youtube.com/@atatakakunaru) ([takao shinji](https://www.youtube.com/@takaosub) in particular)
 - [kokubibi](https://www.youtube.com/@kkvv.)
 
-I also watch clips from these VTubers. They are much shorter compared to videos / streams, and are edited to include subs. Sometimes the clips include animations and drawings which make them fun to watch. Below are some clip channels I often frequent :
+I also watch clips from these VTubers. They are much shorter compared to videos/streams, and are edited to include subs. Sometimes the clips include animations and drawings which make them fun to watch. Below are some clip channels I often frequent :
 
 - [朝と海](https://www.youtube.com/@asaandumi)
 - [kage](https://www.youtube.com/@kage0123)
@@ -56,3 +56,56 @@ I also watch clips from these VTubers. They are much shorter compared to videos 
 !!! note
 
     You can find more VTuber (or anyone else really) clips by using `「VTuber」+ 切り抜き / 文字起こし / 手書き` as a search term on YouTube.  
+
+#### アニメコント
+
+The コント in アニメコント comes from the french word *conte* which translates to "tale" (as in story, fable, etc..) in English. アニメコント is therefore "animated tales", and it is a popular video genre in Japan. The western equivalent to アニメコント would probably be something like "animated skits" (think videos/shorts by [Plan3](https://www.youtube.com/@Plan3), etc..) which is also very popular. Anyways, these videos are not only good because of their short length and inclusion of subtitles, but also because they are genuinely funny. Here are some of the ones I regularly watch :
+
+- [私立パラの丸高校](https://www.youtube.com/@parako)
+- [マリマリマリー](https://www.youtube.com/@marymarymary80s)
+- [くつずれデイズ](https://www.youtube.com/@Kutsuzure_Days)
+- [たすくこま](https://www.youtube.com/@komatasuku)
+- [オムオムアニメ【コント】](https://www.youtube.com/@omuomu_anime)
+- [ピュティフィ](https://www.youtube.com/@pyutifi)
+- [いくとん](https://www.youtube.com/@ikuton_1111)
+
+These ones are more long-form and story (as opposed to gag) oriented, but also very good :
+
+- [テイコウペンギン](https://www.youtube.com/@teipen.official)
+- [混血のカレコレ](https://www.youtube.com/@karekoreya)
+- [ハンドレッドノート / HUNDRED NOTE【公式】](https://www.youtube.com/@HundredNote-Official)
+- [【アニメ】あたしンち公式チャンネル](https://www.youtube.com/@Atashinchi)
+
+#### ボイス漫画
+
+As the name suggests, ボイス漫画 are just dubs of mangas. While some are fan-made, most are made by the publishers themselves and are free to access on their YouTube channels. For example, JUMP! and Kadokawa will sometimes post ボイス漫画 on their channels. Here are some good sources :
+
+- [ジャンプチャンネル](https://www.youtube.com/@jumpchannel)
+- [キトラ【KADOKAWAキトラ公式ボイストゥーン】](https://www.youtube.com/@kadokawa6694)
+- [KADOKAWAanime](https://www.youtube.com/@KADOKAWAanime)
+- [コミックエッセイ劇場【公式】](https://www.youtube.com/@KADOKAWAcomicessay)
+- [双葉社公式コミックチャンネル](https://www.youtube.com/@futabashacomic)
+- [エースこみっくチャンネル](https://www.youtube.com/@AceC_youtube)
+- [コミックブリーゼチャンネル【公式】](https://www.youtube.com/@comic_brise)
+- [BKレーベル公式【ラノベボイスコミックチャンネル】](https://www.youtube.com/@BKcomics_channel)
+- [【公式】PASH!  コミックス・ブックス・文庫](https://www.youtube.com/@pashup8195/videos)
+
+ボイス漫画 doesn't necessarily have to be based on an actual published manga, if someone wants to make content or tell a story with that style then they are free to do so, and this is exactly what [FermiLab](https://www.youtube.com/@ferumi) (also check out [here](https://www.youtube.com/@rin_lab) and [here](https://www.youtube.com/@fermi_lab)) did to create educational videos. 
+
+#### Misc
+
+This is just a place for YouTube content that doesn't really fit into the previous three categories :
+
+- Table top role playing games (TRPGs). In particular, [Call of Cthulu](https://www.chaosium.com/call-of-cthulhu-rpg/) is popular in Japan and is a source of a lot of fun content (check out [あそびいと](https://www.youtube.com/@asobeat_TRPG) and [まにむ](https://www.youtube.com/@manimu_)).
+
+!!! note
+
+    I have been intentionally excluding BL content thus far (I am a fudanshi). This is because I kind of want all the BL content to be in a separate note, and its probably better that way anyway since for some reason there is SOOO much BL content available so it would have just taken up a lot of space if I were to list them here. Whenever I am finished writing the BL note, I will include a link here so you can check it out if so inclined.
+
+<!-- 
+https://www.youtube.com/@comicgene_ch
+-->
+
+### Anime
+
+### Manga
