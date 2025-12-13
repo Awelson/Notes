@@ -1,6 +1,7 @@
 ---
 title: "How I Learn Japanese"
 date: 2025-12-12
+toc_depth: 3
 ---
 
 In this note, I will outline how I learn Japanese and which resources I typically use. To put it shortly, what I do on a pretty much daily basis is watch or read Japanese content, say from anime, YouTube, manga, news, etc.. I am not sure what the effective amount is, but personally, about half of what I consume is Japanese (because I am just that much of a weeb). If I encounter a word or grammar that I am not familiar with, I will try to do some research. Afterwards, I will go back to the sentence (where the word/grammar originated) and check to see if what I have learned makes sense. Rinse and repeat and that is basically all I have been doing up till this point. 
