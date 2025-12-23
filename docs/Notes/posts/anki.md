@@ -1,8 +1,6 @@
 ---
 title: "Anki decks for learning Japanese"
-date: 
-    created: 2025-12-07
-    updated: 2025-12-10
+date: 2025-12-07
 ---
 
 For those who don't know, [Anki](https://apps.ankiweb.net/) is a flashcard program which uses [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) to help you learn and memorize stuff. It is especially popular with the Japanese language learning community for memorizing vocabulary and grammar. I have been wanting to study Japanese more seriously so I had to do some digging to figure out which of the many decks (set of flashcards) I should use, and I wanted to share some of what I found in this note.
