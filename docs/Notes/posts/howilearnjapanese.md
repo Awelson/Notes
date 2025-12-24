@@ -1,6 +1,13 @@
 ---
-title: "How I Learn Japanese (Part 1) : Intro"
+title: "How I Learn Japanese (Part 1) : Background"
 date: 2025-12-23
+---
+
+This is Part 1 of "How I Learn Japanese" :
+
+- Part 1 : Background
+- [Part 2 : Content](howilearnjapanese2.md)
+
 ---
 
 In this multi-part note, I will outline how I learn Japanese and which resources I typically use. To put it shortly, what I do on a pretty much daily basis is watch or read Japanese content, say from anime, YouTube, manga, news, etc.. I am not sure what the effective amount is, but personally, about half of what I consume is Japanese (because I am just that much of a weeb). If I encounter a word or grammar that I am not familiar with, I will try to do some research. Afterwards, I will go back to the sentence (where the word/grammar originated) and check to see if what I have learned makes sense in the original context. Rinse and repeat and that is basically all I have been doing up till this point. 
