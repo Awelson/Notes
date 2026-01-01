@@ -38,9 +38,7 @@ Alternatively, you could ask an LLM to do the same task and it will perform just
 
 is a piece of software that allows you to edit and make subtitles with the use of an audio-to-text model. Personally, I use [whisper's](https://github.com/openai/whisper) large-v3-turbo model with a CPP engine, but you should choose what works best for you based on whatever hardware you have available. 
 
-This is useful in case you have a piece of media, for which no subtitle is provided, that you want to use for immersion. Obviously the model will make mistakes here and there, and it will be up to you to fix its mistakes before proceeding.
-
-
+This is useful in case you have a piece of media, for which no subtitle is provided, that you want to use for immersion. Obviously the model will make mistakes here and there, so proceed with caution.
 
 ## Where do I get content?
 
@@ -56,7 +54,7 @@ I recommend watching videos with hard-coded subs; of which there is no shortage 
   ![Meme](../../assets/sz5rbtzgf7t71.webp){ width="600" }
 </figure>
 
-I primarily watch VTubers, アニメコント, and ボイス漫画. The list is quite long so I have decided to include them in a separate note.
+I primarily watch VTubers, アニメコント, and ボイス漫画. The list is quite long so I have decided to include them in a [separate note](japaneseyoutubers.md).
 
 ### Anime & Manga
 
