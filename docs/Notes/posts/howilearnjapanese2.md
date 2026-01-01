@@ -66,7 +66,7 @@ I will not bother explicitly stating how this can be sourced (since it would cha
 
 ### Music
 
-If you enjoy singing like I do, then singing along to Japanese music is a very fun way to learn. Try glancing through the JP lyrics as you are singing along and before long you will learn to associate the kanji with its sound. You can then take it a step further by trying to translate the lyrics, and then actively recalling the translation whenever you are singing so that you can associate a particular vocabulary/grammar to its meaning and usage as well.
+If you enjoy singing like I do, then singing along to Japanese music is a very fun way to learn. Try glancing through the JP lyrics as you are singing along and before long you will learn to associate the kanji with its sound. You can then take it a step further by trying to translate the lyrics, and then actively recalling the translation while you are singing so that you can associate a particular vocabulary/grammar to its meaning and usage as well.
 
 ### Others
 

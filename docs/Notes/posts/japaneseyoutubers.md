@@ -75,7 +75,7 @@ As the name suggests, ボイス漫画 are just manga dubs. While some are fan-ma
 
 ## BL
 
-Yes, I watch BL. If it has not been clear, I am a 腐男子 (fudanshi). For some reason (not that I am complaining) there are loads of BL content on YouTube (mostly in the form of アニメコント or ボイス漫画), and I feel that it is best if I shove all the BL content into a separate note.
+Yes, I watch BL. If it has not been clear, I am a 腐男子 (fudanshi). For some reason (not that I am complaining) there are loads of BL content on YouTube, and I feel that it is best if I just shove all of it into a separate note.
 
 ## Misc
 
