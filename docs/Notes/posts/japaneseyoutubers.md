@@ -47,6 +47,7 @@ Here are some of the ones I regularly watch :
 - [オムオムアニメ【コント】](https://www.youtube.com/@omuomu_anime)
 - [ピュティフィ](https://www.youtube.com/@pyutifi)
 - [いくとん](https://www.youtube.com/@ikuton_1111)
+- [ふじこふじこ](https://www.youtube.com/@fuziko-fuziko)
 
 These ones are more long-form and story (as opposed to gag) oriented, but also very good :
 
@@ -57,11 +58,11 @@ These ones are more long-form and story (as opposed to gag) oriented, but also v
 
 ## ボイス漫画
 
-As the name suggests, ボイス漫画 are just manga dubs. While some are fan-made, most are made by the publishers themselves and are free to access on their YouTube channels. For example, JUMP! and Kadokawa will sometimes post ボイス漫画 on their channels. Here are some links :
+As the name suggests, ボイス漫画 (also known as ボイスコミック) are just manga dubs. Often, they are made available by the publishers themselves for promotional purposes. For example, [JUMP!](https://www.youtube.com/@jumpchannel) and [Kadokawa](https://www.youtube.com/@KadokawaOfficial) will sometimes post ボイス漫画 on their channels. Here are some publishers I have found and their respective channels, but there's bound to be loads more :
 
 - [ジャンプチャンネル](https://www.youtube.com/@jumpchannel)
+- [KADOKAWAオフィシャルチャンネル](https://www.youtube.com/@KadokawaOfficial)
 - [キトラ【KADOKAWAキトラ公式ボイストゥーン】](https://www.youtube.com/@kadokawa6694)
-- [KADOKAWAanime](https://www.youtube.com/@KADOKAWAanime)
 - [コミックエッセイ劇場【公式】](https://www.youtube.com/@KADOKAWAcomicessay)
 - [双葉社公式コミックチャンネル](https://www.youtube.com/@futabashacomic)
 - [エースこみっくチャンネル](https://www.youtube.com/@AceC_youtube)
@@ -75,7 +76,7 @@ As the name suggests, ボイス漫画 are just manga dubs. While some are fan-ma
 
 ## BL
 
-Yes, I watch BL. If it has not been clear, I am a 腐男子 (fudanshi). For some reason (not that I am complaining) there are loads of BL content on YouTube, and I feel that it is best if I just shove all of it into a separate note.
+Yes, I watch BL. If it has not been clear, I am a 腐男子 (fudanshi). For some reason (not that I am complaining) there are loads of BL content on YouTube, and I feel that it is best if I just shove all of it into a [separate note](BLLLL.md).
 
 ## Misc
 
