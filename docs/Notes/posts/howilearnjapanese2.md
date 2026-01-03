@@ -28,11 +28,9 @@ is a pop-up dictionary which you can install as a browser extension. You will al
 
 In Japanese, the 〇 (丸) symbol is used for censorship, for example : エッチ $\to$ エ〇チ. If you encounter such censorhip, you can use fuseji.net to help [fill in the blank](https://fuseji.net/エ〇チ). This is also useful in case the audio isn't super clear; just add 〇 to whatever part of a sentence is unclear and fuseji.net will try to guess the full sentence for you. For example, click the link below to check out what fuseji.net thinks the complete sentence should be :
 
-<div markdown="1">
 <p style="text-align: center;" markdown="1">[全〇本大〇女〇〇〇対〇〇〇権〇会](https://fuseji.net/全〇本大〇女〇〇〇対〇〇〇権〇会)</p>
-</div>
 
-Alternatively, you could ask an LLM to do the same task and it will perform just as well, if not better.
+Alternatively, you could ask an LLM to do the same task and it will probably perform just as well, if not better. In any case, a correct answer is not guaranteed, so proceed with caution.
 
 ### [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit)
 
@@ -44,7 +42,7 @@ This is useful in case you have a piece of media, for which no subtitle is provi
 
 ### Surfing the web
 
-I am not trying to say that everytime you want to search something up, you should force yourself to do so in Japanese. Instead, there plenty of natural reasons for why it would be a better idea to do so. For instance, I was interested in the art of 落語 (Rakugo) after finishing [Descending Stories: Showa Genroku Rakugo Shinju](https://myanimelist.net/anime/28735/Shouwa_Genroku_Rakugo_Shinjuu/). I wanted to learn more, but the [English Wikipedia page](https://en.wikipedia.org/wiki/Rakugo) was lacking some of the info I was interested in. On the other hand, the [Japanese version](https://ja.wikipedia.org/wiki/%E8%90%BD%E8%AA%9E) is far more comprehensive and better suited to my needs. Of course, the caveat is that you would have to decipher all of the Japanese to get what you want, but that is exactly the point.
+I am not trying to say that everytime you want to search something up, you should force yourself to do so in Japanese. Instead, there plenty of natural reasons for why it would be a better idea to do so. For instance, I was interested in the art of 落語 (Rakugo) after finishing *[Descending Stories: Showa Genroku Rakugo Shinju](https://myanimelist.net/anime/28735/Shouwa_Genroku_Rakugo_Shinjuu/)*. I wanted to learn more, but the [English Wikipedia page](https://en.wikipedia.org/wiki/Rakugo) was lacking some of the info I was interested in. On the other hand, the [Japanese version](https://ja.wikipedia.org/wiki/%E8%90%BD%E8%AA%9E) is far more comprehensive and better suited to my needs. Of course, the caveat is that you would have to decipher all of the Japanese to get what you want, but that is exactly the point.
 
 ### YouTube
 
@@ -60,9 +58,14 @@ I primarily watch VTubers, アニメコント, and ボイス漫画. The list is 
 
 I will not bother explicitly stating how this can be sourced (since it would change every so often anyways due to copyright), but you can refer to [wotaku.wiki](https://wotaku.wiki/) or any of the other sites listed [here](resourcesforotakus.md) for some ideas, both legal and illegal. Once you have obtained your anime / manga, we will need some tools to load this content into the browser so that we can make use of yomitan. For anime, I get JP subs from [jimaku.cc](https://jimaku.cc) and use [asbplayer](https://github.com/killergerbah/asbplayer), and for manga I use an OCR tool called [mokuro](https://github.com/kha-white/mokuro).
 
-!!! tip
+!!! tip "Tip : Free raw manga?"
 
-    Official websites like [cmoa.jp](https://www.cmoa.jp/), [booklive](https://booklive.jp/), etc.. frequently provide volumes that are free to read, albeit for a limited time. However, you can bypass this limit by using [scripts](https://greasyfork.org/en/scripts/445038-cmoa-jp-downloader) to download the content and have it stored locally.
+    Official websites like [cmoa.jp](https://www.cmoa.jp/), [booklive](https://booklive.jp/), etc.. frequently provide volumes that are free to read, albeit for a limited time. However, you can bypass this limit by using [scripts](https://greasyfork.org/en/scripts/445038-cmoa-jp-downloader) to download the content and have it stored locally. Other sites like [Pixivコミック](https://comic.pixiv.net/) make the first few + most recent chapters of a manga free to read. Some popular works like *[Sasaki to Miyano](https://comic.pixiv.net/works/2093)* can be found on this site, so it is worth checking out.
+
+!!! tip "Tip : CD Dramas for listening practice"
+
+    If you are hungry for even more content : ドラマCD (Drama CD) are available for most anime and manga. These drama CDs contain audio only character interactions, so they are good for listening practice. For example, [here](https://www.youtube.com/watch?v=Ywx6zCO41SY) are some drama CDs for *Sasaki to Miyano*.
+
 
 ### Music
 
