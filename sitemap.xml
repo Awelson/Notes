@@ -2,38 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://awelson.github.io/Notes/</loc>
-         <lastmod>2025-12-23</lastmod>
+         <lastmod>2026-01-03</lastmod>
     </url>
     <url>
          <loc>https://awelson.github.io/Notes/Notes/</loc>
-         <lastmod>2025-12-23</lastmod>
+         <lastmod>2026-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://awelson.github.io/Notes/Notes/2026/01/03/bllll/</loc>
+         <lastmod>2026-01-03</lastmod>
     </url>
     <url>
          <loc>https://awelson.github.io/Notes/Notes/2025/12/07/anki-decks-for-learning-japanese/</loc>
-         <lastmod>2025-12-23</lastmod>
+         <lastmod>2026-01-03</lastmod>
     </url>
     <url>
          <loc>https://awelson.github.io/Notes/Notes/2025/12/07/mkdocs--better-tooltips/</loc>
-         <lastmod>2025-12-23</lastmod>
+         <lastmod>2026-01-03</lastmod>
     </url>
     <url>
-         <loc>https://awelson.github.io/Notes/Notes/2025/12/23/how-i-learn-japanese-part-1--intro/</loc>
-         <lastmod>2025-12-23</lastmod>
+         <loc>https://awelson.github.io/Notes/Notes/2025/12/23/how-i-learn-japanese-part-1--background/</loc>
+         <lastmod>2026-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://awelson.github.io/Notes/Notes/2025/12/24/how-i-learn-japanese-part-2--content/</loc>
+         <lastmod>2026-01-03</lastmod>
     </url>
     <url>
          <loc>https://awelson.github.io/Notes/Notes/2025/12/10/resources-and-guides-for-learning-japanese/</loc>
-         <lastmod>2025-12-23</lastmod>
+         <lastmod>2026-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://awelson.github.io/Notes/Notes/2025/12/28/japanese-youtubers-i-watch/</loc>
+         <lastmod>2026-01-03</lastmod>
     </url>
     <url>
          <loc>https://awelson.github.io/Notes/Notes/2025/12/10/resources-for-otakus/</loc>
-         <lastmod>2025-12-23</lastmod>
+         <lastmod>2026-01-03</lastmod>
     </url>
     <url>
          <loc>https://awelson.github.io/Notes/hidden/tooltips/</loc>
-         <lastmod>2025-12-23</lastmod>
+         <lastmod>2026-01-03</lastmod>
+    </url>
+    <url>
+         <loc>https://awelson.github.io/Notes/Notes/archive/2026/01/</loc>
+         <lastmod>2026-01-03</lastmod>
     </url>
     <url>
          <loc>https://awelson.github.io/Notes/Notes/archive/2025/12/</loc>
-         <lastmod>2025-12-23</lastmod>
+         <lastmod>2026-01-03</lastmod>
     </url>
 </urlset>
